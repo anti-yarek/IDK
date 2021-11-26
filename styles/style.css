@@ -1,0 +1,113 @@
+body {
+    position: relative;
+    background: #FFFFFF;
+}
+.bg {
+    position: absolute;
+    width: 1920px;
+    height: 6500px;
+    left: 0px;
+    top: 0px;
+    
+    background: #E4D445;
+    mix-blend-mode: normal;
+}
+.porno {
+    position: absolute;
+    width: 953px;
+    height: 953px;
+    left: 967px;
+    top: -28px;    
+}
+.IDK {
+    position: absolute;
+    width: 248px;
+    height: 197px;
+    left: 323px;
+    top: 250px;
+    
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 144px;
+    line-height: 197px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.ihrl {
+    position: absolute;
+    width: 326px;
+    height: 374px;
+    left: 324px;
+    top: 447px;
+    
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 144px;
+    line-height: 197px;
+    
+    color: #000000;
+}
+.pornoh {
+    position: absolute;
+    width: 461px;
+    height: 178px;
+    left: 1213px;
+    top: 643px;
+    
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 144px;
+    line-height: 197px;
+    text-align: center;
+    
+    color: #E4D445;
+}
+.leftp {
+    position: absolute;
+    width: 950px;
+    height: 927px;
+    left: 323px;
+    top: 961px;
+    
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 49px;
+    
+    color: #000000;
+}
+.leftp p {
+    margin-bottom: 80px;
+}
+.rightp {
+    position: absolute;
+    width: 950px;
+    height: 5436px;
+    left: 647px;
+    top: 1978px;
+
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 49px;
+
+    color: #000000;
+}
+.rightp p {
+    margin-bottom: 80px;
+}
+@media only screen and (max-width:700px) {
+    .porno {
+        position: absolute;
+        width: 700px;
+        left: 0px;
+        top: 311px;         
+    }
+}
