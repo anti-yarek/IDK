@@ -6,13 +6,13 @@ body {
     display: flex;
 }
 .porno {
-    position: absolute;
+    position: relative;
     width: 100%;
     left: 967px;
     top: -28px;    
 }
 .IDK {
-    position: absolute;
+    position: relative;
     left: 323px;
     top: 250px;
     
@@ -24,7 +24,7 @@ body {
     color: #000000;
 }
 .ihrl {
-    position: absolute;
+    position: relative;
     left: 324px;
     top: 447px;
     
@@ -37,7 +37,7 @@ body {
     color: #000000;
 }
 .pornoh {
-    position: absolute;
+    position: relative;
     left: 1213px;
     top: 643px;
     
