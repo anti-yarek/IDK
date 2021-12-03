@@ -2,6 +2,9 @@ body {
     position: relative;
     background-color: #E4D445;
 }
+.header {
+    display: flex;
+}
 .porno {
     position: absolute;
     width: 953px;
