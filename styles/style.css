@@ -10,45 +10,76 @@ body {
     top: -28px; 
 }
 .porno img{
-    width: 75vw;
+    width: 60vw;
 }
 .IDK {
-    left: 323px;
-    top: 250px;
-    
+    position: absolute;
+    margin-left: 10vw;
+    top: 20vh;
+}
+.IDK h1{
     font-family: Avenir;
     font-style: normal;
     font-weight: 800;
     font-size: 144px;
-    line-height: 197px;
+    line-height: 1em;
     color: #000000;
 }
 .ihrl {
-    left: 324px;
-    top: 447px;
-    
+    position: absolute;
+    margin-left: 10vw;
+    top: 40vh;
+}
+.ihrl h1{
     font-family: Avenir;
     font-style: normal;
     font-weight: 800;
     font-size: 144px;
-    line-height: 197px;
-    
+    line-height: 0.9em;
     color: #000000;
 }
 .pornohead {
-    left: 1213px;
-    top: 643px;
-    
+    position: absolute;
+    right: 10vw;
+    top: 70vh;
+}
+.pornohead h2{
     font-family: Avenir;
     font-style: normal;
     font-weight: 800;
     font-size: 144px;
-    line-height: 197px;
+    line-height: 1em;
     text-align: center;
-    
     color: #E4D445;
 }
-
+.leftp {
+    position: absolute;
+    left: 10vw;
+    top: 100vh;
+    right: 40vw;
+}
+.leftp p {
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 49px;
+    color: #000000;
+}
+.rightp {
+    position: absolute;
+    left: 40vw;
+    right: 10vw;
+    top: 300vh;
+}
+.rightp p {
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 49px;
+    color: #000000;
+}
 @media only screen and (max-width:1000px) {
     body {
         background-color: aquamarine;
