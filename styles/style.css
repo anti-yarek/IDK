@@ -1,16 +1,6 @@
 body {
     position: relative;
-    background: #FFFFFF;
-}
-.bg {
-    position: absolute;
-    width: 1920px;
-    height: 6500px;
-    left: 0px;
-    top: 0px;
-    
     background: #E4D445;
-    mix-blend-mode: normal;
 }
 .porno {
     position: absolute;
@@ -101,9 +91,7 @@ body {
     margin-bottom: 80px;
 }
 @media only screen and (max-width:1000px) {
-    .porno {
-        width: 1000px;
-        left: 0px;
-        top: 311px;         
+    body {
+        background-color: aquamarine;
     }
 }
