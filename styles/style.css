@@ -45,42 +45,7 @@ body {
     
     color: #E4D445;
 }
-.leftp {
-    position: absolute;
-    width: 950px;
-    height: 927px;
-    left: 323px;
-    top: 961px;
-    
-    font-family: Avenir;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 36px;
-    line-height: 49px;
-    
-    color: #000000;
-}
-.leftp p {
-    margin-bottom: 80px;
-}
-.rightp {
-    position: absolute;
-    width: 950px;
-    height: 5436px;
-    left: 647px;
-    top: 1978px;
 
-    font-family: Avenir;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 36px;
-    line-height: 49px;
-
-    color: #000000;
-}
-.rightp p {
-    margin-bottom: 80px;
-}
 @media only screen and (max-width:1000px) {
     body {
         background-color: aquamarine;
