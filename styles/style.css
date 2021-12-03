@@ -3,7 +3,6 @@ body {
     background: #FFFFFF;
 }
 .bg {
-    position: absolute;
     width: 1920px;
     height: 6500px;
     left: 0px;
@@ -13,14 +12,12 @@ body {
     mix-blend-mode: normal;
 }
 .porno {
-    position: absolute;
     width: 953px;
     height: 953px;
     left: 967px;
     top: -28px;    
 }
 .IDK {
-    position: absolute;
     width: 248px;
     height: 197px;
     left: 323px;
@@ -31,13 +28,9 @@ body {
     font-weight: 800;
     font-size: 144px;
     line-height: 197px;
-    /* identical to box height */
-    
-    
     color: #000000;
 }
 .ihrl {
-    position: absolute;
     width: 326px;
     height: 374px;
     left: 324px;
@@ -52,7 +45,6 @@ body {
     color: #000000;
 }
 .pornoh {
-    position: absolute;
     width: 461px;
     height: 178px;
     left: 1213px;
@@ -68,7 +60,6 @@ body {
     color: #E4D445;
 }
 .leftp {
-    position: absolute;
     width: 950px;
     height: 927px;
     left: 323px;
@@ -86,7 +77,6 @@ body {
     margin-bottom: 80px;
 }
 .rightp {
-    position: absolute;
     width: 950px;
     height: 5436px;
     left: 647px;
@@ -103,10 +93,9 @@ body {
 .rightp p {
     margin-bottom: 80px;
 }
-@media only screen and (max-width:700px) {
+@media only screen and (max-width:1000px) {
     .porno {
-        position: absolute;
-        width: 700px;
+        width: 1000px;
         left: 0px;
         top: 311px;         
     }
