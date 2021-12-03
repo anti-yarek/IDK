@@ -7,15 +7,12 @@ body {
 }
 .porno {
     position: absolute;
-    width: 953px;
-    height: 953px;
+    width: 100%;
     left: 967px;
     top: -28px;    
 }
 .IDK {
     position: absolute;
-    width: 248px;
-    height: 197px;
     left: 323px;
     top: 250px;
     
@@ -28,8 +25,6 @@ body {
 }
 .ihrl {
     position: absolute;
-    width: 326px;
-    height: 374px;
     left: 324px;
     top: 447px;
     
@@ -43,8 +38,6 @@ body {
 }
 .pornoh {
     position: absolute;
-    width: 461px;
-    height: 178px;
     left: 1213px;
     top: 643px;
     
