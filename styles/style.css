@@ -53,6 +53,9 @@ body {
     text-align: center;
     color: #E4D445;
 }
+.p-container {
+    position: relative;
+}
 .leftp {
     position: absolute;
     left: 10vw;
