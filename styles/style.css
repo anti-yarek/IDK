@@ -1,5 +1,6 @@
 body {
     background-color: #E4D445;
+    width: 1024px;
 }
 .golovka {
     display: flex;
@@ -80,7 +81,7 @@ body {
     line-height: 49px;
     color: #000000;
 }
-@media only screen and (max-width:1000px) {
+@media only screen and (max-width:767px) {
     body {
         background-color: aquamarine;
     }
