@@ -72,6 +72,7 @@ body {
     left: 40vw;
     right: 10vw;
     top: 300vh;
+    margin-bottom: 20vh;
 }
 .rightp p {
     font-family: Avenir;
