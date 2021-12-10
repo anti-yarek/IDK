@@ -66,13 +66,14 @@ body {
     font-size: 36px;
     line-height: 49px;
     color: #000000;
+    margin-bottom: 20vh;
 }
 .rightp {
     position: absolute;
     left: 40vw;
     right: 10vw;
     top: 300vh;
-    margin-bottom: 20vh;
+    
 }
 .rightp p {
     font-family: Avenir;
@@ -81,6 +82,7 @@ body {
     font-size: 36px;
     line-height: 49px;
     color: #000000;
+    margin-bottom: 20vh;
 }
 @media only screen and (max-width:767px) {
     body {
